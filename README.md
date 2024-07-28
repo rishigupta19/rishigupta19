@@ -42,7 +42,7 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 
 - LinkedIn : https://linkedin.com/in/rishi-gupta-632b2524a/
 - Twitter : https://x.com/RishiGupta2003
-- Email : mailto:rg956012@gmail.com
+- Email : rg956012@gmail.com
 
 ---
 
