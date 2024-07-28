@@ -44,6 +44,8 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 - Twitter : https://x.com/RishiGupta2003
 - Email : rg956012@gmail.com
 
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to connect!
+
 ---
 
 ## 📊 GitHub Stats
@@ -53,7 +55,5 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 ## 🌐 Most Used Languages
 
 ![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishigupta19&layout=compact&theme=tokyonight)
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to connect!
 
 ---
