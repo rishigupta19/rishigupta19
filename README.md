@@ -37,7 +37,7 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 
 ## 🌐 Most Used Languages
 
-![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishigupta19&layout=compact&theme=radical)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to connect!
 
