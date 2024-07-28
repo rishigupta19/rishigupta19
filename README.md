@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ## 🌱 Currently Learning
 
+- Backend
 - AI/ML Integration
 - Scalable and Flexible Architecture for Web Applications
 - Enhanced Collaboration Tools and User Experience Design
