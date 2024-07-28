@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, React, Java
-- **Frameworks:** React, Tailwind CSS
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, GitBash
+- **Languages:** ![HTML Badge](https://img.shields.io/badge/HTML-%E2%9C%93-blue), ![CSS Badge](https://img.shields.io/badge/CSS-%E2%9C%93-blue), ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%E2%9C%93-yellow), ![React Badge](https://img.shields.io/badge/React-%E2%9C%93-blue), ![Java Badge](https://img.shields.io/badge/Java-%E2%9C%93-red)
+- **Frameworks:** ![React Badge](https://img.shields.io/badge/React-%E2%9C%93-blue), ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-%E2%9C%93-blue)
+- **Databases:** ![MySQL Badge](https://img.shields.io/badge/MySQL-%E2%9C%93-blue)
+- **Tools & Platforms:** ![Git Badge](https://img.shields.io/badge/Git-%E2%9C%93-F05032), ![GitBash Badge](https://img.shields.io/badge/GitBash-%E2%9C%93-000000)
+
 - **Other Skills:** Responsive Web Design, Version Control(Git)
 
 ## 🌱 Currently Learning
@@ -20,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ### Roborox 🎮
 RoboRox is a dynamic web application that provides a seamless gaming experience, featuring a visually appealing carousel and interactive game cards. It showcases various games with detailed descriptions and images, allowing users to explore, add to their library, and stay updated with the latest news in the gaming world.
-- Link: https://roborox.netlify.app
+- Explore Roborox : https://roborox.netlify.app
 
 ## 📫 Get in Touch
 
@@ -28,8 +29,16 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 - Twitter: https://x.com/RishiGupta2003
 - Email: rg956012@gmail.com
 
+---
+
+## 📊 GitHub Stats
+
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishigupta19&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=radical)
+
+## 🌐 Most Used Languages
+
+![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to connect!
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishigupta19&show_icons=true&theme=radical)
