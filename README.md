@@ -23,9 +23,9 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 
 ## 📫 Get in Touch
 
-- LinkedIn: [https://linkedin.com/in/rishi-gupta-632b2524a/]
-- Twitter: [https://x.com/RishiGupta2003]
-- Email: [rg956012@gmail.com]
+- LinkedIn: https://linkedin.com/in/rishi-gupta-632b2524a/
+- Twitter: https://x.com/RishiGupta2003
+- Email: rg956012@gmail.com
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to connect!
 
