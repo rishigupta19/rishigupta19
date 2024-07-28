@@ -36,13 +36,13 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 RoboRox is a dynamic web application that provides a seamless gaming experience, featuring a visually appealing carousel and interactive game cards. It showcases various games with detailed descriptions and images, allowing users to explore, add to their library, and stay updated with the latest news in the gaming world.
 
-- [Explore RoboRox](https://roborox.netlify.app)
+- Explore RoboRox : https://roborox.netlify.app
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/rishi-gupta-632b2524a/)
-- [Twitter](https://x.com/RishiGupta2003)
-- [Email](mailto:rg956012@gmail.com)
+- LinkedIn : https://linkedin.com/in/rishi-gupta-632b2524a/
+- Twitter : https://x.com/RishiGupta2003
+- Email : mailto:rg956012@gmail.com
 
 ---
 
