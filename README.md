@@ -33,7 +33,7 @@ RoboRox is a dynamic web application that provides a seamless gaming experience,
 
 ## 📊 GitHub Stats
 
-![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam80004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=radical)
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishigupta19&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=radical)
 
 ## 🌐 Most Used Languages
 
